@@ -13,7 +13,7 @@ public class TailsGenerator {
             lista.add(value.substring(i));
         }
 
-        return lista; //new ArrayList<>(value.length());
+        return lista;
     }
 
 }
